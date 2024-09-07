@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm  from  Kathmandu,Nepal<br><br>-   I’m working as Front-end web Developer<br>- 📚 I'm currently learning Next.js and JavaScript<br>- ⚡ In my free time I like to learn new things about coding</p>
+<p align="left">I'm  from  Kathmandu,Nepal<br><br>-   I’m working as Front-end web Developer<br>- 📚 I'm currently learning Next.js and JavaScript<br></p>
 
 
 
