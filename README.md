@@ -1,62 +1,63 @@
-# 👋 Hey there, I'm Ukesh Dhakal!
+<h1 align="center">👋 Hey, I'm Ukesh Dhakal</h1>
 
-I'm a passionate Front‑End Web Developer and UI/UX Designer from **Kathmandu, Nepal** 🇳🇵, currently pursuing a Bachelor in Information Technology at Model Institute of Technology (IAU affiliate).:contentReference[oaicite:1]{index=1}
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50">
+  Front-End Developer • UI/UX Designer • Tech Enthusiast
+</p>
 
----
-
-## 🌱 What I'm Up To
-
-- Building intuitive user interfaces with **HTML/CSS**, **JavaScript**, **React**, **Tailwind CSS**, and **Next.js**.:contentReference[oaicite:2]{index=2}  
-- Exploring back‑end development using **Node.js**, **MongoDB**, and **MySQL**.:contentReference[oaicite:3]{index=3}  
-- Enhancing my skills in **responsive design**, **Figma**, **Linux**, **Git**, and **Firebase**.:contentReference[oaicite:4]{index=4}  
-- Currently diving deeper into modern JavaScript frameworks like **Next.js**.:contentReference[oaicite:5]{index=5}
-
----
-
-## 💼 Highlight Projects
-
-### Live Code Editor for HTML, CSS & JS  
-A lightweight code‑playground built with plain JavaScript and styled using Tailwind CSS. Think of it as a simpler, faster version of CodePen.:contentReference[oaicite:6]{index=6}
-
-### Portfolio Website  
-Built with **Next.js** + **Tailwind CSS**; showcases my work, projects, and tech stack. Deployed live at my custom domain.:contentReference[oaicite:7]{index=7}
-
-### Other Notable Work  
-- **Edu‑Learner:** A template project combining React and Vite, tailored for learning setups.:contentReference[oaicite:8]{index=8}  
-- Additional repositories (Pinned on my profile) include Electron‑based HTML/CSS editor, Facebook‑clone idea, and more.:contentReference[oaicite:9]{index=9}
+<p align="center">
+  <a href="https://www.ukeshdhakal.com.np" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23ffffff?style=for-the-badge&logo=firefox&logoColor=black" />
+  </a>
+  <a href="https://github.com/ukesh-dhakal" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🚀 About Me
 
-| Category      | Technologies & Tools                          |
-|---------------|-----------------------------------------------|
-| 💻 Front‑End  | HTML5, CSS3, JavaScript, React, Next.js, Tailwind CSS |
-| 🗄 Back‑End    | Node.js, MongoDB, MySQL                       |
-| 🎨 Design      | Figma, Responsive Design                      |
-| 🔧 Other Tools | Git, Linux, Firebase, Vite                    |
+I'm a passionate web developer based in 🇳🇵 **Kathmandu, Nepal**, currently pursuing a Bachelor's in IT.  
+I love crafting interactive websites, playing with React, and learning new tools that enhance user experience.
 
 ---
 
-## 🎓 Honors & Recognition
+## 🛠 Tech Stack
 
-- 🥉 **3rd place** at *Saral Hackathon 2023*
-- 🥇 **1st place** at *Tech Trix Nepal 2023*:contentReference[oaicite:10]{index=10}
-
----
-
-## 📫 Get in Touch
-
-- 💼 Portfolio & Resume: [ukeshdhakal.com.np](https://www.ukeshdhakal.com.np) :contentReference[oaicite:11]{index=11}  
-- ✉️ Let’s connect! I’m always open to collaborating on new projects.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,mongodb,mysql,git,figma,linux,firebase,vite" />
+</div>
 
 ---
 
-### 📌 You Can Also See
+## 🌱 Currently Learning
 
-- **Pinned Projects**:  
-  - LivecodeEditor-for-HTML-CSS-and-JS  
-  - Facebook‑clone using Next.js  
-  - Electron‑based HTML/CSS editor:contentReference[oaicite:12]{index=12}
+- ⚛️ Deep diving into **Next.js**
+- 🧩 Building scalable front-end architectures
+- 🌐 Improving **UI/UX design** using **Figma + Tailwind**
+- 🔐 Firebase & MongoDB integration
 
-Feel free to explore my GitHub repositories—I’m eager to collaborate, contribute to open source, and learn new things every day. Cheers! 🚀
+---
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ukesh-dhakal&show_icons=true&theme=radical" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ukesh-dhakal&layout=compact&theme=radical" height="170px"/>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 Website: [ukeshdhakal.com.np](https://www.ukeshdhakal.com.np)
+- 📧 Email: ukeshdhakal2076@gmail.com
+- 💬 DM me for collaborations, side-projects, or just to say hi!
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7F7F7&width=435&lines=Thanks+for+visiting+my+profile!;Keep+learning+and+building+🚀" alt="Typing SVG" />
+</p>
