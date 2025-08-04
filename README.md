@@ -52,7 +52,7 @@ I love crafting interactive websites, playing with React, and learning new tools
 ## 📫 Let's Connect
 
 - 🌐 Website: [ukeshdhakal.com.np](https://www.ukeshdhakal.com.np)
-- 📧 Email: ukeshdhakal2076@gmail.com
+- 📧 Email: dhakalukesh890@gmail.com
 - 💬 DM me for collaborations, side-projects, or just to say hi!
 
 ---
